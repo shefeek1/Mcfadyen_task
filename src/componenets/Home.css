@@ -1,0 +1,43 @@
+.myaccount{
+    background-color: aqua;
+}
+
+li.borderless { border-top: 0 none; }
+hr{
+/*    
+        border: none;
+        height: 1px;
+   
+        color:#333;
+        background-color: #333; */
+    }
+.label1{
+    font-size: 13px;
+    color: grey;
+}
+.information{
+    height: 14px;
+    width: auto;
+    margin-left: 4px;
+}
+h6{
+    font-weight: 700;
+}
+h7{
+    font-weight: 600;
+}
+.dropdown{
+    width:30rem;
+    height:35px;
+    border: 1px solid grey;
+}
+.btn1{
+display: flex;
+justify-content: end;
+}
+.btn2{
+    border-radius: 0;
+    margin-right: 30px;
+    margin-left: 10px;
+    padding-inline: 30px;
+}
